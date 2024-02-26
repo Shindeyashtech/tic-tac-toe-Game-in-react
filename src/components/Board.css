@@ -1,0 +1,11 @@
+.Board-row{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    /* width: 100px; */
+    gap: 0px;
+
+  }
+  .Board-container{
+    margin: 20px; 
+  }
